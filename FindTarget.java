@@ -1,3 +1,4 @@
+import java.util.*;
 class FindTarget {
     public List<Integer> targetIndices(int[] nums, int target) {
         ArrayList<Integer> a1=new ArrayList<>();
